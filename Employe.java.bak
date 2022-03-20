@@ -1,3 +1,4 @@
-public class Employe{
-
+public class Employe{ 
+//Commentaire java 
+private int a;
 }
