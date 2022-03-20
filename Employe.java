@@ -1,3 +1,3 @@
-public class Employe{
-
+public class Employe{ 
+private int a;
 }
